@@ -1,5 +1,0 @@
-First test file.
-
-Edited by Ashok Kumar Madhavi Selvaraj.
-
-# This is a comment.
